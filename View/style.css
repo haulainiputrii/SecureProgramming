@@ -1,0 +1,14 @@
+#terserah {
+    color: red;
+    font-size: 50px;
+}
+
+#submit {
+    margin-top: 50px; /* margin top buat ngasi jarak dr atas, kl mau ngejauh dr kiri left */
+    margin-left: 8rem ; /* rem ngespace nya lbh jauh, kl px kicik2 */
+}
+
+#text {
+    width: 200px; /* buat manjangin tabel */
+    height: 20px; /* buat lebarin tabel */
+}
